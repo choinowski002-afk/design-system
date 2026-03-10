@@ -59,7 +59,7 @@ li {
 
 /* ── Button ── */
 button {
-  background-color: #c9923a;
+  background-color: #DA9B52;
   color: white;
   font-size: 16px;
   padding: 12px 24px;
@@ -70,40 +70,4 @@ button {
 
 button:hover {
   background-color: #DA9B52;
-}
-
-/* ── Navigation Bar ── */
-nav {
-  background-color: #1a1a1a;
-  padding: 16px 20px;
-  margin-bottom: 40px;
-}
-
-nav a {
-  color: white;
-  text-decoration: none;
-  margin-right: 24px;
-  font-size: 16px;
-}
-
-nav a:hover {
-  color: #c9923a;
-}
-
-/* ── Card ── */
-.card {
-  background-color: white;
-  border: 1px solid #dddddd;
-  border-radius: 8px;
-  padding: 24px;
-  max-width: 320px;
-}
-
-.card h3 {
-  margin-top: 0;
-  margin-bottom: 12px;
-}
-
-.card p {
-  margin-bottom: 20px;
 }
